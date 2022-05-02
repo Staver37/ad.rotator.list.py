@@ -1,0 +1,1 @@
+# ad.rotator.list.py
